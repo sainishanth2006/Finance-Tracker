@@ -114,3 +114,5 @@ npm run dev
 - **Expenses:** `GET /api/expenses?month=YYYY-MM`, `POST /api/expenses`, `DELETE /api/expenses/:id`
 - **Budgets:** `GET /api/budgets?month=YYYY-MM`, `POST /api/budgets`, `DELETE /api/budgets/:id`
 - **Analytics:** `GET /api/analytics/summary?month=YYYY-MM` (returns total spent, budgets, category split, and top 5 expenses)
+
+<video src=" /Users/sainishanth/Downloads/Screen\ Recording\ 2026-11-08\ at\ 12.00.18 PM.mp4 " controls width="600"></video>
